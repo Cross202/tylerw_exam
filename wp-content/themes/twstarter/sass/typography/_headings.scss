@@ -6,25 +6,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 3em;
+	font-size: 2.2em;
+	color: $color_headings;
 }
 
 h2 {
-	font-size: 2.6em;
+	font-size: 2em;
+	color: $color_headings;
 }
 
 h3 {
-	font-size: 2.2em;
+	font-size: 1.8em;
+	color: $color_headings;
 }
 
 h4 {
-	font-size: 2em;
+	font-size: 1.6em;
+	color: $color_headings;
 }
 
 h5 {
-	font-size: 1.8em;
+	font-size: 1.4em;
+	color: $color_headings;
 }
 
 h6 {
-	font-size: 1.6em;
+	font-size: 1.2em;
+	color: $color_headings;
 }
